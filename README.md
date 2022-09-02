@@ -1,4 +1,4 @@
-# Machine Learning Specialization from Andrew Ng on Coursera (old version, not the 2022 update)
+# Machine Learning Specialization from Andrew Ng (pre-2022 update)
 
 Video Lectures on 🎥 [youtube](https://www.youtube.com/watch?v=9siFuMMHNIA&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=97)
 
